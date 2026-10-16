@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": 1,
+    "title": "مقدمة في الشبكات",
+    "category": "Network",
+    "description": "شرح أساسيات الشبكات",
+    "image": "",
+    "url": "https://example.com/lesson1",
+    "date": "2026-10-16"
+  },
+  {
+    "id": 2,
+    "title": "شرح الراوتر والسويتش",
+    "category": "CCNA",
+    "description": "التعرف على أجهزة الشبكات",
+    "image": "",
+    "url": "https://example.com/lesson2",
+    "date": "2026-10-15"
+  }
+]
